@@ -71,6 +71,9 @@ A hybrid recommender that combines three signals:
 ---
 
 ## Visualizations
+### User Intelligence Layer
+![User Intelligence](user_intelligence.png)
+
 ### Product Intelligence Layer
 ![Product Intelligence](charts/product_intelligence.png)
 
